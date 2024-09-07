@@ -1,0 +1,26 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.blog{
+  display: flex;
+  justify-content: center;
+  background-position: center;
+  background-size: cover;
+  height: 400px;
+}
+.blog-heading{
+  padding:20px 0 0 20px;
+  color: #f7f7f7;
+}
+.blog-box{
+  margin: 50px 0;
+  width: 840px;
+  display: flex;
+  justify-content: center;
+}
+.blog-text{
+  width: 840px;
+}
